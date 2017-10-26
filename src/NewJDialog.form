@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <NonVisualComponents>
+    <Menu class="java.awt.MenuBar" name="menuBar1">
+      <SubComponents>
+        <Menu class="java.awt.Menu" name="menu1">
+          <Properties>
+            <Property name="label" type="java.lang.String" value="File"/>
+          </Properties>
+        </Menu>
+        <Menu class="java.awt.Menu" name="menu2">
+          <Properties>
+            <Property name="label" type="java.lang.String" value="Edit"/>
+          </Properties>
+        </Menu>
+      </SubComponents>
+    </Menu>
+    <Menu class="java.awt.MenuBar" name="menuBar2">
+      <SubComponents>
+        <Menu class="java.awt.Menu" name="menu3">
+          <Properties>
+            <Property name="label" type="java.lang.String" value="File"/>
+          </Properties>
+        </Menu>
+        <Menu class="java.awt.Menu" name="menu4">
+          <Properties>
+            <Property name="label" type="java.lang.String" value="Edit"/>
+          </Properties>
+        </Menu>
+      </SubComponents>
+    </Menu>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="-2" pref="49" max="-2" attributes="0"/>
+              <Component id="language1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="language2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="49" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="-2" pref="88" max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="163" max="-2" attributes="0"/>
+              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="174" max="-2" attributes="0"/>
+              <Component id="jLabel2" min="-2" pref="92" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="76" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="button1" min="-2" max="-2" attributes="0"/>
+                  <Component id="jScrollPane3" min="-2" pref="229" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="213" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jScrollPane2" min="-2" pref="206" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="button2" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                      <Component id="completeInteraction" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="jScrollPane5" alignment="1" pref="253" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="clearButton" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="language1" alignment="1" min="-2" max="-2" attributes="0"/>
+                  <Component id="language2" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jScrollPane3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jScrollPane5" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="button1" min="-2" max="-2" attributes="0"/>
+                          <Component id="button2" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="clearButton" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="completeInteraction" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                          <Component id="jScrollPane2" alignment="0" pref="439" max="32767" attributes="0"/>
+                          <Component id="jScrollPane1" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JComboBox" name="language1">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="65">
+            <StringItem index="0" value="Select Language"/>
+            <StringItem index="1" value="Afrikaans"/>
+            <StringItem index="2" value="Albanian"/>
+            <StringItem index="3" value="Arabic"/>
+            <StringItem index="4" value="Azerbaijani"/>
+            <StringItem index="5" value="Basque"/>
+            <StringItem index="6" value="Bengali"/>
+            <StringItem index="7" value="Belarusian"/>
+            <StringItem index="8" value="Bulgarian"/>
+            <StringItem index="9" value="Catalan"/>
+            <StringItem index="10" value="ChineseSimplified"/>
+            <StringItem index="11" value="ChineseTraditional"/>
+            <StringItem index="12" value="Croatian"/>
+            <StringItem index="13" value="Czech"/>
+            <StringItem index="14" value="Danish"/>
+            <StringItem index="15" value="Dutch"/>
+            <StringItem index="16" value="English"/>
+            <StringItem index="17" value="Esperanto"/>
+            <StringItem index="18" value="Estonian"/>
+            <StringItem index="19" value="Filipino"/>
+            <StringItem index="20" value="Finnish"/>
+            <StringItem index="21" value="French"/>
+            <StringItem index="22" value="Galician"/>
+            <StringItem index="23" value="Georgian"/>
+            <StringItem index="24" value="German"/>
+            <StringItem index="25" value="Greek"/>
+            <StringItem index="26" value="Gujarati"/>
+            <StringItem index="27" value="HaitianCreole"/>
+            <StringItem index="28" value="Hebrew"/>
+            <StringItem index="29" value="Hindi"/>
+            <StringItem index="30" value="Hungarian"/>
+            <StringItem index="31" value="Icelandic"/>
+            <StringItem index="32" value="Indonesian"/>
+            <StringItem index="33" value="Irish"/>
+            <StringItem index="34" value="Italian"/>
+            <StringItem index="35" value="Japanese"/>
+            <StringItem index="36" value="Kannada"/>
+            <StringItem index="37" value="Korean"/>
+            <StringItem index="38" value="Latin"/>
+            <StringItem index="39" value="Latvian"/>
+            <StringItem index="40" value="Lithuanian"/>
+            <StringItem index="41" value="Macedonian"/>
+            <StringItem index="42" value="Malay"/>
+            <StringItem index="43" value="Maltese"/>
+            <StringItem index="44" value="Norwegian"/>
+            <StringItem index="45" value="Persian"/>
+            <StringItem index="46" value="Polish"/>
+            <StringItem index="47" value="Portuguese"/>
+            <StringItem index="48" value="Romanian"/>
+            <StringItem index="49" value="Russian"/>
+            <StringItem index="50" value="Serbian"/>
+            <StringItem index="51" value="Slovak"/>
+            <StringItem index="52" value="Slovenian"/>
+            <StringItem index="53" value="Spanish"/>
+            <StringItem index="54" value="Swahili"/>
+            <StringItem index="55" value="Swedish"/>
+            <StringItem index="56" value="Tamil"/>
+            <StringItem index="57" value="Telugu"/>
+            <StringItem index="58" value="Thai"/>
+            <StringItem index="59" value="Turkish"/>
+            <StringItem index="60" value="Ukrainian"/>
+            <StringItem index="61" value="Urdu"/>
+            <StringItem index="62" value="Vietnamese"/>
+            <StringItem index="63" value="Welsh"/>
+            <StringItem index="64" value="Yiddish"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="language1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="language2">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="65">
+            <StringItem index="0" value="Select Language"/>
+            <StringItem index="1" value="Afrikaans"/>
+            <StringItem index="2" value="Albanian"/>
+            <StringItem index="3" value="Arabic"/>
+            <StringItem index="4" value="Azerbaijani"/>
+            <StringItem index="5" value="Basque"/>
+            <StringItem index="6" value="Bengali"/>
+            <StringItem index="7" value="Belarusian"/>
+            <StringItem index="8" value="Bulgarian"/>
+            <StringItem index="9" value="Catalan"/>
+            <StringItem index="10" value="ChineseSimplified"/>
+            <StringItem index="11" value="ChineseTraditional"/>
+            <StringItem index="12" value="Croatian"/>
+            <StringItem index="13" value="Czech"/>
+            <StringItem index="14" value="Danish"/>
+            <StringItem index="15" value="Dutch"/>
+            <StringItem index="16" value="English"/>
+            <StringItem index="17" value="Esperanto"/>
+            <StringItem index="18" value="Estonian"/>
+            <StringItem index="19" value="Filipino"/>
+            <StringItem index="20" value="Finnish"/>
+            <StringItem index="21" value="French"/>
+            <StringItem index="22" value="Galician"/>
+            <StringItem index="23" value="Georgian"/>
+            <StringItem index="24" value="German"/>
+            <StringItem index="25" value="Greek"/>
+            <StringItem index="26" value="Gujarati"/>
+            <StringItem index="27" value="HaitianCreole"/>
+            <StringItem index="28" value="Hebrew"/>
+            <StringItem index="29" value="Hindi"/>
+            <StringItem index="30" value="Hungarian"/>
+            <StringItem index="31" value="Icelandic"/>
+            <StringItem index="32" value="Indonesian"/>
+            <StringItem index="33" value="Irish"/>
+            <StringItem index="34" value="Italian"/>
+            <StringItem index="35" value="Japanese"/>
+            <StringItem index="36" value="Kannada"/>
+            <StringItem index="37" value="Korean"/>
+            <StringItem index="38" value="Latin"/>
+            <StringItem index="39" value="Latvian"/>
+            <StringItem index="40" value="Lithuanian"/>
+            <StringItem index="41" value="Macedonian"/>
+            <StringItem index="42" value="Malay"/>
+            <StringItem index="43" value="Maltese"/>
+            <StringItem index="44" value="Norwegian"/>
+            <StringItem index="45" value="Persian"/>
+            <StringItem index="46" value="Polish"/>
+            <StringItem index="47" value="Portuguese"/>
+            <StringItem index="48" value="Romanian"/>
+            <StringItem index="49" value="Russian"/>
+            <StringItem index="50" value="Serbian"/>
+            <StringItem index="51" value="Slovak"/>
+            <StringItem index="52" value="Slovenian"/>
+            <StringItem index="53" value="Spanish"/>
+            <StringItem index="54" value="Swahili"/>
+            <StringItem index="55" value="Swedish"/>
+            <StringItem index="56" value="Tamil"/>
+            <StringItem index="57" value="Telugu"/>
+            <StringItem index="58" value="Thai"/>
+            <StringItem index="59" value="Turkish"/>
+            <StringItem index="60" value="Ukrainian"/>
+            <StringItem index="61" value="Urdu"/>
+            <StringItem index="62" value="Vietnamese"/>
+            <StringItem index="63" value="Welsh"/>
+            <StringItem index="64" value="Yiddish"/>
+          </StringArray>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Grande" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Enter Text"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Grande" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Enter Text"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="button1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Grande" size="24" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#x2192;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="button1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="completeInteraction">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Complete Interaction"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="completeInteractionActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="button2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Grande" size="24" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#x2190;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="button2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane5">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="textbox2">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="lineWrap" type="boolean" value="true"/>
+            <Property name="rows" type="int" value="5"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="translated1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="lineWrap" type="boolean" value="true"/>
+            <Property name="rows" type="int" value="5"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="translated2">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="lineWrap" type="boolean" value="true"/>
+            <Property name="rows" type="int" value="5"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="textbox1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="lineWrap" type="boolean" value="true"/>
+            <Property name="rows" type="int" value="5"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Grande" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="User 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Lucida Grande" size="14" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="User 2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="clearButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Clear"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="clearButtonActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
